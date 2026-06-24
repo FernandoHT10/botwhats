@@ -1,0 +1,23 @@
+# Archivos de entorno y credenciales
+.env
+google-service-account.json
+*.json
+!package.json
+!package-lock.json
+!tsconfig.json
+
+# Dependencias
+node_modules/
+
+# Compilado
+dist/
+
+# Base de datos local
+data/
+
+# Sesiones de WhatsApp
+auth/
+
+# Temporales
+scratch/
+.gemini/
