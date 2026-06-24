@@ -1,8 +1,8 @@
-# 🤖 BotWhats - Asistente de WhatsApp Open Source para Clínicas
+#  BotWhats - Asistente de WhatsApp Open Source para Clínicas
 
 BotWhats es un asistente virtual de código abierto diseñado específicamente para profesionales independientes, clínicas dentales y centros médicos. Permite a los pacientes **agendar citas directamente en tu Google Calendar** sin intervención humana, responder preguntas frecuentes y enviar recordatorios automáticos.
 
-## ✨ Características Principales
+##  Características Principales
 
 - **Agendamiento Inteligente**: Se conecta en tiempo real a Google Calendar para revisar horarios disponibles.
 - **Recordatorios Automáticos**: Envía WhatsApp a los pacientes el día anterior a la cita.
@@ -11,7 +11,7 @@ BotWhats es un asistente virtual de código abierto diseñado específicamente p
 
 ---
 
-## 🚀 Guía de Instalación Rápida
+##  Guía de Instalación Rápida
 
 ### 1. Requisitos Previos
 - Instalar [Node.js](https://nodejs.org/es) (versión 18 o superior).
