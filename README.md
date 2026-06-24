@@ -20,7 +20,7 @@ BotWhats es un asistente virtual de código abierto diseñado específicamente p
 
 ### 2. Clonar e Instalar
 ```bash
-git clone https://github.com/tu-usuario/botwhats.git
+git clone https://github.com/FernandoHT10/botwhats.git
 cd botwhats
 npm install
 ```
